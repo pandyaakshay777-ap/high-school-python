@@ -4,7 +4,7 @@ Python programmes for high school graders. Includes jupyter notebooks with markd
 ## Pre-requisites
 
 ### Numpy
-- Use Anaconda or any other platform to install the latest version of <i>numpy</i>\
+- Use Anaconda or any other platform to install the latest version of <i>numpy</i>
 <pre>
     <code>conda install numpy</code>
 </pre>
