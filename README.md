@@ -8,3 +8,9 @@ Python programmes for high school graders. Includes jupyter notebooks with markd
 <pre>
     <code>conda install numpy</code>
 </pre>
+
+### Matplotlib
+- Use Anaconda or any other platform to install the latest version of <i>matplotlib</i>
+<pre>
+    <code>conda install matplotlib</code>
+</pre>
